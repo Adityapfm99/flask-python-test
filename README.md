@@ -28,7 +28,7 @@ $ source venv/bin/activate
 $ python run.py
 ```
 
-## Running the app
+## Endpoint
 1. [GET] /api/v1/generate --> for generate the output in ```output/output.txt```, the response will provide a link to download.
 2. [GET] /api/v1/report --> total number of each random objects.
     example :   {
