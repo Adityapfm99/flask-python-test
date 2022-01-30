@@ -19,3 +19,22 @@ Programming Challenge Flask Python
 > 127393283382928371237 - integer
 > asdfka1j3jr9k32348fas - alphanumeric
 > 1312332223932.1000223 - real numbers
+
+## Running the app
+
+```bash
+$ source venv/bin/activate
+
+$ python run.py
+```
+
+## Running the app
+1. [GET] /api/v1/generate --> for generate the output in ```output/output.txt```, the response will provide a link to download.
+2. [GET] /api/v1/report --> total number of each random objects.
+    example :   {
+                    "Alphanumerics : 23,
+                    Integer : 7,
+                    Alphabetical strings : 9,
+                    Real numbers : 14"
+                 }   
+
