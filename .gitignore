@@ -1,3 +1,6 @@
 _pycache_
 
 .DS_Store
+
+venv
+.vscode/
