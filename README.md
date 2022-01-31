@@ -38,3 +38,10 @@ $ python run.py
                     Real numbers : 14"
                  }   
 
+## Sample Generate
+![Alt text](generate.png)
+
+## Sample Fetch report
+![Alt text](report.png)
+
+
